@@ -17,15 +17,19 @@ The goal of the program is to take the room dimensions, the locations of the dir
 # Usage
   To run this program in command line:  
   
+  ```
   cd trayiorobot
   node app.js
+  ```
+
   
 # Output
   In command line after you run app.js you should see: 
   
+  ```
   [1, 3]
   1
-  
+  ```
   Changing the input.txt file will change the result values. 
   
 # Misc Notes 
