@@ -21,7 +21,7 @@ The goal of the program is to take the room dimensions, the locations of the dir
   cd trayiorobot
   node app.js
   ```
-
+  Make sure input.txt is formatted correctly and in the same dir as app.js. 
   
 # Output
   In command line after you run app.js you should see: 
