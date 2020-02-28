@@ -22,6 +22,16 @@ The goal of the program is to take the room dimensions, the locations of the dir
   node app.js
   ```
   Make sure input.txt is formatted correctly and in the same dir as app.js. 
+  First line is room size, second line is cordinates, last line is directions and in between are the patches. 
+  Example:
+  ```
+  5 5
+  1 2
+  1 0
+  2 2
+  2 3
+  NNESEESWNWW
+  ```
   
 # Output
   In command line after you run app.js you should see: 
